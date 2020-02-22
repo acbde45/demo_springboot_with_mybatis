@@ -1,4 +1,4 @@
-package yuxiao.niu.demo_mybatis.entity;
+package yuxiao.niu.demo_springboot_with_mybatis.entity;
 
 import lombok.Data;
 

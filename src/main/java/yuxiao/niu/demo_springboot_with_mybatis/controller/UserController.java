@@ -1,9 +1,9 @@
-package yuxiao.niu.demo_mybatis.controller;
+package yuxiao.niu.demo_springboot_with_mybatis.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-import yuxiao.niu.demo_mybatis.entity.User;
-import yuxiao.niu.demo_mybatis.service.UserService;
+import yuxiao.niu.demo_springboot_with_mybatis.entity.User;
+import yuxiao.niu.demo_springboot_with_mybatis.service.UserService;
 
 import java.util.HashMap;
 import java.util.List;

@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>yuxiao.niu</groupId>
-    <artifactId>demo_mybatis</artifactId>
+    <artifactId>demo_springboot_with_mybatis</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>demo_mybatis</name>
+    <name>demo_springboot_with_mybatis</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>

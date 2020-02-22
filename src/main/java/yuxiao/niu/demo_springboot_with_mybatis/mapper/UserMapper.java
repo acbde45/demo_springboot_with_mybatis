@@ -1,8 +1,8 @@
-package yuxiao.niu.demo_mybatis.mapper;
+package yuxiao.niu.demo_springboot_with_mybatis.mapper;
 
 import org.apache.ibatis.annotations.Mapper;
 import org.springframework.stereotype.Repository;
-import yuxiao.niu.demo_mybatis.entity.User;
+import yuxiao.niu.demo_springboot_with_mybatis.entity.User;
 
 import java.util.List;
 import java.util.Map;

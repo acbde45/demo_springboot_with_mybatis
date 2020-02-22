@@ -1,10 +1,10 @@
-package yuxiao.niu.demo_mybatis.service.impl;
+package yuxiao.niu.demo_springboot_with_mybatis.service.impl;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import yuxiao.niu.demo_mybatis.entity.User;
-import yuxiao.niu.demo_mybatis.mapper.UserMapper;
-import yuxiao.niu.demo_mybatis.service.UserService;
+import yuxiao.niu.demo_springboot_with_mybatis.entity.User;
+import yuxiao.niu.demo_springboot_with_mybatis.mapper.UserMapper;
+import yuxiao.niu.demo_springboot_with_mybatis.service.UserService;
 
 import java.util.List;
 import java.util.Map;
